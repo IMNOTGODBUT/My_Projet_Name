@@ -1,0 +1,13 @@
+1-first you need download python setup you can install python in Python_setup folder
+####################################################
+2-next you click RUN and this program runing in your CMD 
+####################################################
+3-you Write Your chamoune name and your Eneme chmpune 
+########################################
+4-after showing 2 tab ( your machup , and your champune runs ) back to your cmd and rite enemy accont name and program show your enemy profine
+####################################################
+5-you can test your ping
+#######################################################
+6-You can open 2 of best fakers mini_game for loading !!!!!!
+
+			Have Fun Game

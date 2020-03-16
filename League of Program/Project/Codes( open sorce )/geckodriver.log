@@ -1,0 +1,564 @@
+1584187843309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileu5vgaW"
+1584187844920	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584187847099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584187847100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584187847101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584187847101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584187852894	Marionette	INFO	Listening on port 61537
+1584187853119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1oykxszdrgjgl.cloudfront.net/script.js line 1 > eval, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript error: https://d1oykxszdrgjgl.cloudfront.net/script.js line 1 > eval, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 4736, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584188062417	Marionette	INFO	Stopped listening on port 61537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584188100614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofilesg5g3B"
+1584188102157	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584188104464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584188104464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584188104465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584188104465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584188109102	Marionette	INFO	Listening on port 62123
+1584188109377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1167:3
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: CreateShaderResourceView failed for format87
+1584188397404	Marionette	INFO	Stopped listening on port 62123
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584188946984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofilenyHT1i"
+1584188948545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584188950545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584188950545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584188950545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584188950546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584188955911	Marionette	INFO	Listening on port 62942
+1584188956297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.counterstats.net/league-of-legends/garen/vs-ryze/middle/all, line 7: ReferenceError: osdlfm is not defined
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[Parent 956, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584189757393	Marionette	INFO	Stopped listening on port 62942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584193178058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileAP4O9L"
+1584193179779	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584193181883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584193181884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584193181885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584193181885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584193187222	Marionette	INFO	Listening on port 64975
+1584193187372	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6652, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1584193214423	Marionette	INFO	Stopped listening on port 64975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584193224884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileknvafO"
+1584193226439	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584193228412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584193228412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584193228413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584193228413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584193233659	Marionette	INFO	Listening on port 65100
+1584193233715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+JavaScript error: https://d1oykxszdrgjgl.cloudfront.net/script.js line 1 > eval, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: CreateShaderResourceView failed for format87
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584193691517	Marionette	INFO	Stopped listening on port 65100
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584193734080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofilezRbcL1"
+1584193735858	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584193738139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584193738139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584193738141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584193738141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584193745009	Marionette	INFO	Listening on port 49447
+1584193745075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[Parent 7280, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584194167674	Marionette	INFO	Stopped listening on port 49447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584199487413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileBLgAFV"
+1584199489549	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584199491875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584199491876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584199491877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584199491878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584199504466	Marionette	INFO	Listening on port 50181
+1584199504673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: CreateShaderResourceView failed for format87
+1584199914984	Marionette	INFO	Stopped listening on port 50181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584200094158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofile11qtZB"
+1584200095810	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584200097868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584200097868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584200097869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584200097869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584200103291	Marionette	INFO	Listening on port 51091
+1584200104918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1584203589551	Marionette	INFO	Stopped listening on port 51091
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584203866468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofilesLtdMg"
+1584203868132	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584203870227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584203870227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584203870228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584203870228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584203875550	Marionette	INFO	Listening on port 53208
+1584203875786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.counterstats.net/league-of-legends/zed/vs-yasuo/middle/all, line 7: ReferenceError: osdlfm is not defined
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript warning: https://opgg-static.akamaized.net/js3/summoner.js?1584169548, line 83: unreachable code after return statement
+JavaScript error: https://id.op.gg/summoner/ajax/checkSummoner.jsonp/?callback=jQuery21305227806240064112_1584204537148&name=k&_=1584204537149, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://sg.op.gg/summoner/ajax/checkSummoner.jsonp/?callback=jQuery21305227806240064112_1584204537146&name=k&_=1584204537147, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://th.op.gg/summoner/ajax/checkSummoner.jsonp/?callback=jQuery21305227806240064112_1584204537156&name=k&_=1584204537157, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://ph.op.gg/summoner/ajax/checkSummoner.jsonp/?callback=jQuery21305227806240064112_1584204537150&name=k&_=1584204537151, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://tw.op.gg/summoner/ajax/checkSummoner.jsonp/?callback=jQuery21305227806240064112_1584204537152&name=k&_=1584204537153, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://vn.op.gg/summoner/ajax/checkSummoner.jsonp/?callback=jQuery21305227806240064112_1584204537154&name=k&_=1584204537155, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1820: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1874: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL warning: drawArraysInstanced: TEXTURE_2D at unit 0 is incomplete: The dimensions of `level_base` are not all positive.
+JavaScript warning: https://loldodgegame.com/play/loldoge/lol%20dodge%20game2.js?OTGBC=1646727485, line 1494: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1584205416090	Marionette	INFO	Stopped listening on port 53208
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584206677441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileb7ZFWd"
+1584206728855	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584206733208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584206733209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584206733209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584206733210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584206763752	Marionette	INFO	Listening on port 54792
+[Parent 7996, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584206834083	Marionette	INFO	Stopped listening on port 54792
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584206863124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileGLzYD8"
+1584206865885	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584206868005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584206868006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584206868006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584206868007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584206873317	Marionette	INFO	Listening on port 54915
+1584206874820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://hb.vntsm.com/v3/live/ad-manager.min.js, line 56: NS_ERROR_NOT_INITIALIZED: 
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1167:3
+
+[GFX1-]: CreateShaderResourceView failed for format87
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1584206987243	Marionette	INFO	Stopped listening on port 54915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584207165694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofilez7j6Yl"
+1584207213009	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584207216432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584207216433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584207216434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584207216435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+[Parent 3396, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584207239354	Marionette	INFO	Listening on port 55152
+1584207248484	Marionette	INFO	Stopped listening on port 55152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584207259789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileZo7m5E"
+1584207262335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584207265547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584207265548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584207265548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584207265549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584207271273	Marionette	INFO	Listening on port 55257
+1584207271347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+JavaScript error: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 450: ReferenceError: Modernizr is not defined
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 1932, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584207579275	Marionette	INFO	Stopped listening on port 55257
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584207601330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileZfUY7i"
+1584207609786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584207614312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584207614313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584207614314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584207614314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: CreateShaderResourceView failed for format87
+1584207660584	Marionette	INFO	Listening on port 55870
+1584207661437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opgg-static.akamaized.net/js3/common.js?1584169548, line 1297: unreachable code after return statement
+console.error: services.settings: 
+  Message: Error: Sync failed
+  Stack:
+    maybeSync@resource://services-settings/RemoteSettingsClient.jsm:534:19
+
+console.error: services.settings: 
+  Message: Error: Sync failed
+  Stack:
+    maybeSync@resource://services-settings/RemoteSettingsClient.jsm:534:19
+
+JavaScript error: , line 0: uncaught exception: null
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 889))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 1 callbacks.","filename":"resource://services-settings/RemoteSettingsWorker.jsm","lineNumber":131,"stack":["resource://services-settings/RemoteSettingsWorker.jsm:null:131","resource://services-settings/RemoteSettingsClient.jsm:_importJSONDump:651","resource://services-settings/RemoteSettingsClient.jsm:get:319","resource://gre/modules/addons/XPIProvider.jsm:awaitPromise:226","resource://gre/modules/addons/XPIInstall.jsm:syncLoadManifest:754","resource://gre/modules/addons/XPIDatabase.jsm:addMetadata:2782","resource://gre/modules/addons/XPIDatabase.jsm:processFileChanges:3221","resource://gre/modules/addons/XPIProvider.jsm:checkForChanges:2933","resource://gre/modules/addons/XPIProvider.jsm:startup:2393","resource://gre/modules/AddonManager.jsm:callProvider:215","resource://gre/modules/AddonManager.jsm:_startProvider:587","resource://gre/modules/AddonManager.jsm:startup:811","resource://gre/modules/AddonManager.jsm:startup:3482","resource://gre/modules/addonManager.js:observe:87"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 1 callbacks.","filename":"resource://services-settings/RemoteSettingsWorker.jsm","lineNumber":131,"stack":["resource://services-settings/RemoteSettingsWorker.jsm:null:131","resource://services-settings/RemoteSettingsClient.jsm:_importJSONDump:651","resource://services-settings/RemoteSettingsClient.jsm:get:319","resource://gre/modules/addons/XPIProvider.jsm:awaitPromise:226","resource://gre/modules/addons/XPIInstall.jsm:syncLoadManifest:754","resource://gre/modules/addons/XPIDatabase.jsm:addMetadata:2782","resource://gre/modules/addons/XPIDatabase.jsm:processFileChanges:3221","resource://gre/modules/addons/XPIProvider.jsm:checkForChanges:2933","resource://gre/modules/addons/XPIProvider.jsm:startup:2393","resource://gre/modules/AddonManager.jsm:callProvider:215","resource://gre/modules/AddonManager.jsm:_startProvider:587","resource://gre/modules/AddonManager.jsm:startup:811","resource://gre/modules/AddonManager.jsm:startup:3482","resource://gre/modules/addonManager.js:observe:87"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 7308, Main Thread] ###!!! ABORT: file resource://services-settings/RemoteSettingsWorker.jsm, line 131
+[Parent 7308, Main Thread] ###!!! ABORT: file resource://services-settings/RemoteSettingsWorker.jsm, line 131
+1584290415142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arsa\\AppData\\Local\\Temp\\rust_mozprofileG4ja2x"
+1584290419137	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584290421954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584290421954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584290421955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584290421955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584290430610	Marionette	INFO	Listening on port 49589
+1584290465485	Marionette	INFO	Stopped listening on port 49589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
